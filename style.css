@@ -1,0 +1,9 @@
+body {
+    background-image: url("background.jpg");
+    color: white;
+}
+
+#share {
+    align: center;
+    margin-left: 20px;
+}
